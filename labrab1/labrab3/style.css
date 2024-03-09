@@ -1,0 +1,25 @@
+h1{
+    color:red;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 40px;
+}
+h2{
+    color: white;
+    background-color: green;
+}
+.p{
+    line-height: 20px;
+    font-size: 17px;
+}
+.first{
+    width: 160px;
+    background-color: blue;
+    color: white;
+    font-size: 17px;
+    padding-bottom: 10px;
+}
+.sp{
+    border:1px solid black;
+    font-weight: 900;
+}
